@@ -1,7 +1,7 @@
-# reactReduxTodoAp
+# Todo App with React Redux
 
-cd todo-app
-npm install
-npm start / yarn start
+cd todo-app  <br />
+npm install  <br />
+npm start / yarn start  <br />
 
 Demo : https://luminous-daifuku-20d4d8.netlify.app/
